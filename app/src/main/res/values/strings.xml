@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">College App</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Vishwakarma Institute of Technology (VIT) is an autonomous engineering college located in Upper Indira Nagar, Bibwewadi, Pune, Maharashtra, India. The institute was established in 1983 and it is affiliated to the Savitribai Phule Pune University.
+
+The college is largely supported by the Bansilal Ramanath Agarwal Charitable Trust.VIT was the first private college in Maharashtra to attain academic autonomy in the academic year 2008-2009. The college is the only college in Pune to provide Honors and Minors courses in addition to normal undergraduate courses.</string>
+
+</resources>
